@@ -48,7 +48,7 @@ This plugin is licensed under the **MIT License**. Feel free to modify and contr
 Pull requests are welcome! If you encounter any issues, please open an issue on GitHub.
 
 ## Author
-Your Name – [Your GitHub Profile](https://github.com/millaw)
+Milla Wynn – [MillaW](https://github.com/millaw)
 
 ---
 
