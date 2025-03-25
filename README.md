@@ -42,7 +42,7 @@ This WordPress plugin prevents `mod_security` from blocking HTTP POST requests c
 - No conflicts with other meta field plugins
 
 ## License
-This plugin is licensed under the **MIT License**. Feel free to modify and contribute!
+This plugin is licensed under the **GPLv3 License**. Feel free to modify and contribute!
 
 ## Contribution
 Pull requests are welcome! If you encounter any issues, please open an issue on GitHub.
